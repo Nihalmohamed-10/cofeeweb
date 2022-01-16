@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Rubik+Mono+One&family=Saira+Condensed:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+body{
+    background-color: burlywood;
+}
+
+.class{
+    height: 80px;
+    width: 100px;
+    
+}
+div{
+    background-color: chocolate;
+    width: 100%;
+}
+
+
+img{
+    width: 100%;
+    height: 550px;
+}
+.row1{
+    background-color: chocolate;
+    height: 700px;
+    width: 30%;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 247px;
+    
+}
+div img{
+    height: 40%;
+    width: 85%;
+    margin-top: 10px;
+}
+h2{
+    text-align: center;
+    font-family: 'Ephesis', cursive;
+    font-size: 40px;
+}
+.row2{
+    background-color: chocolate;
+    height: 700px;
+    width: 30%;
+    text-align: center;
+    margin-top: -717px;
+    margin-left: 806px;
+}
+h1{
+    font-family: 'Bad Script', cursive;
+    font-family: 'Rubik Mono One', sans-serif;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    
+}#foot{
+    background-color: gray;
+    width: 50%;
+    height: 220px;
+    text-align: center;
+    margin-left: 337px;
+}
+a{
+    font-size: 20px;
+    color: brown;
+}
+#www{
+    font-size: 30px;
+    color: yellow;
+}
+#qqq{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+}
+#qwe{
+    color: honeydew;
+    font-family: 'Bad Script', cursive;
+font-family: 'Rubik Mono One', sans-serif;
+font-family: 'Saira Condensed', sans-serif;
+font-size: 30px;
+text-align: center;
+}
+#qwr{
+    color: honeydew;
+    font-family: 'Bad Script', cursive;
+font-family: 'Rubik Mono One', sans-serif;
+font-family: 'Saira Condensed', sans-serif;
+font-size: 30px;
+text-align: center;
+}
+#qwt{
+    color: honeydew;
+    font-family: 'Bad Script', cursive;
+font-family: 'Rubik Mono One', sans-serif;
+font-family: 'Saira Condensed', sans-serif;
+font-size: 30px;
+text-align: center; 
+}
+.logo{
+    text-align: center;
+}
+#mnb{
+    background-color: blanchedalmond;
+}
